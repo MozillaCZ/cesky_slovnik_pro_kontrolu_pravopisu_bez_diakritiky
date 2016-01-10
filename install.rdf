@@ -6,7 +6,7 @@
     <em:id>cs2@dictionaries.addons.mozilla.org</em:id>
     <em:type>64</em:type>
     <em:version>1.0.5</em:version>
-    
+	
 	<!--Firefox-->
     <em:targetApplication>
       <Description>
@@ -52,6 +52,15 @@
       </Description>
     </em:targetApplication>
 	
+	<!--Instantbird-->
+    <em:targetApplication>
+      <Description>
+        <em:id>{33cb9019-c295-46dd-be21-8c4936574bee}</em:id>
+        <em:minVersion>1.2a1pre</em:minVersion>
+        <em:maxVersion>1.5</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+
     <em:name>Český slovník pro kontrolu pravopisu (bez diakritiky)</em:name>
     <em:description>Slovník pro kontrolu pravopisu u textů bez diakritiky pro aplikace Mozilla.</em:description>
     <em:unpack>true</em:unpack>
