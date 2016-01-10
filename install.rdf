@@ -5,7 +5,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>cs2@dictionaries.addons.mozilla.org</em:id>
     <em:type>64</em:type>
-    <em:version>1.0.5</em:version>
+    <em:version>1.0.7</em:version>
 	
 	<!--Firefox-->
     <em:targetApplication>
